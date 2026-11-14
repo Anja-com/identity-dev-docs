@@ -34,4 +34,4 @@ This site uses the anchor.js. To update it:
 
 #### YAML files
 
-When updating a `yml` file, you only need to update the version in the `/assets` directory. This is symlinked to the `_includes` directory.
+When updating a `yml` file, you only need to update the version in the `/assets` directory. This is symlinked to the `_includes` directory
