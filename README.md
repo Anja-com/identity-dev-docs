@@ -1,6 +1,6 @@
 # Login.gov Dev Docs
 
-[View it live ❯](https://developers.login.gov/)
+[View it live❯](https://developers.login.gov/)
 
 ## Temporary Alert
 
